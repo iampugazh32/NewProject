@@ -15,7 +15,7 @@ public class NewProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("HELLO WORLD");
+        System.out.println("HELLO WORLD");NewProject/src/newproject/NewProject.java
     }
     
 }
